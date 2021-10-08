@@ -1,5 +1,5 @@
 # 3D_print_time_lapse_plugin
-<h2>Time lapse plugin for Cura<h2>
+<h2>Time lapse plugin for Cura</h2>
 </br>
 A plugin segítségével könnyedén készíthetsz time lapse felvételeket a 3D nyomtatásod folyamatáról egyetlen telefon segítségével.
 </br>
